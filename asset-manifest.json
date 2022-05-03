@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Ramirez-Portfolio/static/css/main.fb0b0792.css",
+    "main.js": "/Ramirez-Portfolio/static/js/main.7fe10126.js",
+    "static/js/787.e29dc422.chunk.js": "/Ramirez-Portfolio/static/js/787.e29dc422.chunk.js",
+    "static/media/contactBG.jpg": "/Ramirez-Portfolio/static/media/contactBG.0659ebf46da04b311f1a.jpg",
+    "static/media/proj1.PNG": "/Ramirez-Portfolio/static/media/proj1.439cf3cb8ac68ce8d82e.PNG",
+    "static/media/paint3.PNG": "/Ramirez-Portfolio/static/media/paint3.36dd79ecceb2c7fc0a92.PNG",
+    "static/media/paint1.PNG": "/Ramirez-Portfolio/static/media/paint1.50767082a0eb3d5278cc.PNG",
+    "static/media/paint2.PNG": "/Ramirez-Portfolio/static/media/paint2.e4ebf37f9617b04babb4.PNG",
+    "static/media/proj3.PNG": "/Ramirez-Portfolio/static/media/proj3.0ffc79ac22bee58d5b0e.PNG",
+    "static/media/paint5.PNG": "/Ramirez-Portfolio/static/media/paint5.0d086083e72f31c60dbb.PNG",
+    "static/media/paint4.PNG": "/Ramirez-Portfolio/static/media/paint4.1ea0979a6f1c4ac689ce.PNG",
+    "static/media/city2.png": "/Ramirez-Portfolio/static/media/city2.62c2f05eb474f82b9677.png",
+    "static/media/spaceBG.jpg": "/Ramirez-Portfolio/static/media/spaceBG.fb1baa912a1a1553e7a7.jpg",
+    "static/media/proj4.PNG": "/Ramirez-Portfolio/static/media/proj4.cea0c67c86b57e788cb2.PNG",
+    "static/media/spaceBG.png": "/Ramirez-Portfolio/static/media/spaceBG.c9eb7e87613269570060.png",
+    "static/media/RamirezMarkChristopher_CV.pdf": "/Ramirez-Portfolio/static/media/RamirezMarkChristopher_CV.cddc2c16c3b8db715cd0.pdf",
+    "static/media/mark.jpg": "/Ramirez-Portfolio/static/media/mark.bc2f85fb57de12be9b8b.jpg",
+    "static/media/telus.jpg": "/Ramirez-Portfolio/static/media/telus.2a8d930ec772addb7124.jpg",
+    "static/media/nightbg2.jpg": "/Ramirez-Portfolio/static/media/nightbg2.0dfb78147cb242c24d57.jpg",
+    "static/media/city.png": "/Ramirez-Portfolio/static/media/city.450a37679c18d770fe51.png",
+    "static/media/proj2.PNG": "/Ramirez-Portfolio/static/media/proj2.720181d58d80ad0aa062.PNG",
+    "index.html": "/Ramirez-Portfolio/index.html",
+    "main.fb0b0792.css.map": "/Ramirez-Portfolio/static/css/main.fb0b0792.css.map",
+    "main.7fe10126.js.map": "/Ramirez-Portfolio/static/js/main.7fe10126.js.map",
+    "787.e29dc422.chunk.js.map": "/Ramirez-Portfolio/static/js/787.e29dc422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb0b0792.css",
+    "static/js/main.7fe10126.js"
+  ]
+}
