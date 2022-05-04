@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Ramirez-Portfolio/static/css/main.78f3bdd2.css",
+    "main.css": "/Ramirez-Portfolio/static/css/main.4d06d7bc.css",
     "main.js": "/Ramirez-Portfolio/static/js/main.a6b09f2a.js",
     "static/js/787.e29dc422.chunk.js": "/Ramirez-Portfolio/static/js/787.e29dc422.chunk.js",
     "static/media/contactBG.jpg": "/Ramirez-Portfolio/static/media/contactBG.0659ebf46da04b311f1a.jpg",
@@ -22,12 +22,12 @@
     "static/media/city.png": "/Ramirez-Portfolio/static/media/city.450a37679c18d770fe51.png",
     "static/media/proj2.PNG": "/Ramirez-Portfolio/static/media/proj2.720181d58d80ad0aa062.PNG",
     "index.html": "/Ramirez-Portfolio/index.html",
-    "main.78f3bdd2.css.map": "/Ramirez-Portfolio/static/css/main.78f3bdd2.css.map",
+    "main.4d06d7bc.css.map": "/Ramirez-Portfolio/static/css/main.4d06d7bc.css.map",
     "main.a6b09f2a.js.map": "/Ramirez-Portfolio/static/js/main.a6b09f2a.js.map",
     "787.e29dc422.chunk.js.map": "/Ramirez-Portfolio/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78f3bdd2.css",
+    "static/css/main.4d06d7bc.css",
     "static/js/main.a6b09f2a.js"
   ]
 }
