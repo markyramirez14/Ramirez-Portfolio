@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ramirez-Portfolio/static/css/main.b541a3da.css",
-    "main.js": "/Ramirez-Portfolio/static/js/main.b51b023c.js",
+    "main.css": "/Ramirez-Portfolio/static/css/main.ed3964b8.css",
+    "main.js": "/Ramirez-Portfolio/static/js/main.b41286f7.js",
     "static/js/787.e29dc422.chunk.js": "/Ramirez-Portfolio/static/js/787.e29dc422.chunk.js",
     "static/media/contactBG.jpg": "/Ramirez-Portfolio/static/media/contactBG.0659ebf46da04b311f1a.jpg",
     "static/media/proj1.PNG": "/Ramirez-Portfolio/static/media/proj1.439cf3cb8ac68ce8d82e.PNG",
@@ -22,12 +22,12 @@
     "static/media/city.png": "/Ramirez-Portfolio/static/media/city.450a37679c18d770fe51.png",
     "static/media/proj2.PNG": "/Ramirez-Portfolio/static/media/proj2.720181d58d80ad0aa062.PNG",
     "index.html": "/Ramirez-Portfolio/index.html",
-    "main.b541a3da.css.map": "/Ramirez-Portfolio/static/css/main.b541a3da.css.map",
-    "main.b51b023c.js.map": "/Ramirez-Portfolio/static/js/main.b51b023c.js.map",
+    "main.ed3964b8.css.map": "/Ramirez-Portfolio/static/css/main.ed3964b8.css.map",
+    "main.b41286f7.js.map": "/Ramirez-Portfolio/static/js/main.b41286f7.js.map",
     "787.e29dc422.chunk.js.map": "/Ramirez-Portfolio/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b541a3da.css",
-    "static/js/main.b51b023c.js"
+    "static/css/main.ed3964b8.css",
+    "static/js/main.b41286f7.js"
   ]
 }
